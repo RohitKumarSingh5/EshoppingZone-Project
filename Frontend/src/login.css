@@ -1,0 +1,19 @@
+@import url(https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css);
+.form_bg{
+    background: linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    padding-left:650px;
+  }
+.login__registerButton{
+border-radius: 18px;
+background-color: #fe8c00;
+width: 80px;
+}
+.login__signInButton {
+border-radius: 18px;
+background-color:linear-gradient(260deg, #2376ae 0%, #c16ecf 100%);
+width: 80px;
+}
